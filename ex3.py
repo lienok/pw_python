@@ -1,6 +1,6 @@
 print "I will now count my chicken:"
 
-print "Kurky", 25 + 30 / 6
+print "Kurky", 25 + 30 / 6 # pocet
 print "deleni 75/4 = ", 75 / 4
 print "zvysok po deleni 75/4 = ", 75 % 4
 print "Kohutiky", 100 - 25 * 3 % 4 # % znamena zvysok po deleni cisla pred % cislom za %. Tzn. 10 deleno 3 = 3 a zvysok je 1 => vysledok je 1.
