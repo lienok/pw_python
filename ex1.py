@@ -1,6 +1,6 @@
 print "Hello world"
 print "Hello again"
-print 'Yay! Printing.'
+print 'Yay! Printing.' #medzi uvodzovnkami zobrazuje specialne znaky a aj medzery aj uvodzovky
 print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
 print '*******Original***********'
